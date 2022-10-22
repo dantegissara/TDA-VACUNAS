@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1666447532 source:c:\users\dante\desktop\vacunastda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vacunas.h"
+	"ciudadano.h"
+
+1666447768 source:c:\users\dante\desktop\vacunastda\vacunas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vacunas.h"
+	"ciudadano.h"
+
+1666445034 c:\users\dante\desktop\vacunastda\vacunas.h
+
+1666447123 c:\users\dante\desktop\vacunastda\ciudadano.h
+
+1666447768 source:c:\users\dante\desktop\vacunastda\ciudadano.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vacunas.h"
+	"ciudadano.h"
+
